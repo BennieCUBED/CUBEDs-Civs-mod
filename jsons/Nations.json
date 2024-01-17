@@ -181,6 +181,8 @@
 
 		"outerColor": [100,100,100],
 		"innerColor": [200,200,200],
+		"uniqueName": "República de Moçambique",
+		"uniques": [""],
 		"cities": ["Maputo"],
 	},
 		
