@@ -179,8 +179,8 @@
 
 		"tradeRequest": "Ready for an agreement? I can even show you some dugongs while you are here.",
 
-		"outerColor": [100,100,100],
-		"innerColor": [200,200,200],
+		"outerColor": [6, 143, 17],
+		"innerColor": [235, 12, 12],
 		"uniqueName": "República de Moçambique",
 		"uniques": ["[+1 Gold, +1 Happiness, +1 Culture] from [Trading Post] tiles [in all cities] <in [Coastal] tiles>"],
 		"cities": ["Maputo"],
