@@ -4,7 +4,7 @@
              "style": "African",
              "leaderName": "Omar I",
              "adjective": ["Kanem","Bornu"],
-             "startBias": ["Plains","Lake"],
+             "startBias": ["Plains","Lakes"],
              "preferredVictoryType": "Domination",
 
              "startIntroPart1": "...",
@@ -116,7 +116,7 @@
 	      "leaderName": "John Lewis",
 	      "adjective": ["Shawnees"],
 	      "startBias": ["Grassland"],
-	      "preferredVictoryType": "",
+	      "preferredVictoryType": "Cultural",
 
 	      "startIntroPart1": "...",
 	      "startIntroPatt2": "Can you build a civilization that can stand against the test of time?",
@@ -137,9 +137,28 @@
 	      "uniques": ["[+2 Faith] from [Hill] tiles [in all cities]"],
 	      "cities": ["Louiseville","Frankfort","Chillicothe","Piketon","Portsmouth","Jackson","Hillsboro","Shawnee"],
       },
-  //    {
-//	      "name": "Medina",
-//	      "style": "Middle Eastern",
+     {
+	      "name": "Medina",
+	      "style": "Middle Eastern",
+	      "leaderName": "Muhammad",
+	      "adjective": ["Medinan"],
+              "startBias": ["Desert","Hill"],
+              "preferredVictoryType": "Religious",
+
+	      "neutralHello": "Welcome.",
+	      "hateHello": "What now, fool?",
+
+	      "tradeRequest": "May Allah bless you...",
+
+	     "outerColor": [],
+	     "innerColor": [],
+	     "uniqueName": "Blessed Medina",
+	     "uniques": [""],
+	     "cities": ["Medina"],
+     },    
+
+
+
 	      
             
 ]
