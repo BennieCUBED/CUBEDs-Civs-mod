@@ -150,8 +150,8 @@
 
 	      "tradeRequest": "May Allah bless you...",
 
-	     "outerColor": [],
-	     "innerColor": [],
+	     "outerColor": [24, 163, 11],
+	     "innerColor": [128, 153, 125],
 	     "uniqueName": "Blessed Medina",
 	     "uniques": [""],
 	     "cities": ["Medina"],
