@@ -169,10 +169,10 @@
 		"startIntroPart1": "...",
 		"startIntroPart2": "Can you build i civilization that can stand the test of time?",
 
-		"declaringWar": "I wish for peace, but you actions force us to go to war...",
+		"declaringWar": "I wish for peace, but your actions force us to go to war...",
                 "attacked": "I knew you would do this, only warmongers like you would do this!",
 		"defeated": "And, as soon as it started, Mozambique has fallen.",
-		"introduction": "Hello! I am Nelson Mandela, one of the greatest peace keepers of Mozambique; And the world.",
+		"introduction": "Hello! I am Nelson Mandela. I strive for justice and equality around the world.",
 
 		"neutralHello": "Hello, friend.",
 		"hateHello": "Hmm? What's the matter?",
@@ -182,7 +182,7 @@
 		"outerColor": [100,100,100],
 		"innerColor": [200,200,200],
 		"uniqueName": "República de Moçambique",
-		"uniques": [""],
+		"uniques": ["[+1 Gold, +1 Happiness, +1 Culture] from [Trading Post] tiles [in all cities] <in [Coastal] tiles>"],
 		"cities": ["Maputo"],
 	},
 		
