@@ -153,8 +153,8 @@
 	     "outerColor": [24, 163, 11],
 	     "innerColor": [128, 153, 125],
 	     "uniqueName": "Blessed Medina",
-	     "uniques": ["Free [Prophet] appears <upon entering a Golden Age>"],
-	     "cities": ["Medina"],
+	     "uniques": ["Free [Great Prophet] appears <upon entering a Golden Age>"],
+	     "cities": ["Medina","Yanbu","Ad Dumayniyah","Badr","Al Wajh","Al Uqul","Al Henakiyah","Alfera"],
      },    
 
 
