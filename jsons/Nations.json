@@ -181,6 +181,7 @@
 
 		"outerColor": [6, 143, 17],
 		"innerColor": [235, 12, 12],
+		"favoredReligion": "Christianity",
 		"uniqueName": "República de Moçambique",
 		"uniques": ["[+1 Gold, +1 Happiness, +1 Culture] from [Trading post] tiles [in all cities] <in [Coastal] tiles>"],
 		"cities": ["Maputo","Beira","Nacala","Inhambane","Nampula","Quelimane","Ponta do Ouro","Vilankulos","Tete","Memba","Pebane","Chimoio","Praia Do Bilene","Mabote","Save","Mozambique"],
@@ -208,6 +209,7 @@
 
 		"outerColor": [],
 		"innerColor": [],
+		"favoredReligion": "Hinduism",
 		"uniqueName": "Andhra Bhoja",
 		"uniques": [""],
 		"cities": [""],
