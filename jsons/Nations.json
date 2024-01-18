@@ -204,11 +204,14 @@
 		"neutralHello": "Good evening.",
 		"hateHello": "Ready to negotiate?",
 
-		
+		"tradeRequest": "Ready to negotiate? our deals are always fair.",
 
-		
-
-		
+		"outerColor": [],
+		"innerColor": [],
+		"uniqueName": "Andhra Bhoja",
+		"uniques": [""],
+		"cities": [""],
+	},		
 
 ]
         
