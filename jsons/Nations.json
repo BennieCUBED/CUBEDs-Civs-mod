@@ -191,6 +191,23 @@
 		"leaderName": "Krishnadevaraya",
                 "adjective": ["Vijayanagaran"],
 		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "...",
+		"startIntroPart2": "Will you build a civilisation that can stand the test of time?",
+
+		"declaringWar": "It's about time our empire expanded, so be gone!",
+		"attacked": "Vijayanagar will not bow down to you, our empire will thrive with your land under our rule.",
+		"defeated": "I have fought my final battle, I am now yours...",
+                "introduction": "I am Krishnadevaraya, emperor of the Vijayanagara Empire, Lord of the Jewelled Throne of Karnataka, Protector of Brahmins and Cows and Lord of Three Kings."
+
+		"neutralHello": "Good evening.",
+		"hateHello": "Ready to negotiate?",
+
+		
+
+		
+
 		
 
 ]
