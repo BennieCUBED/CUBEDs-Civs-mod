@@ -207,12 +207,12 @@
 
 		"tradeRequest": "Ready to negotiate? our deals are always fair.",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [211, 190, 10],
+		"innerColor": [250, 15, 15],
 		"favoredReligion": "Hinduism",
 		"uniqueName": "Andhra Bhoja",
 		"uniques": [""],
-		"cities": [""],
+		"cities": ["Bellary"],
 	},		
 
 ]
