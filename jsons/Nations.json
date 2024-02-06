@@ -218,7 +218,16 @@
 		"name": "Yolngu",
 		"style": "Oceania",
 		"laderName": "Djalu Gurruwiwi",
-		"adjective": [""],
+		"adjective": ["Yolngu","Yolŋu"],
+		"startBias": ["Plains","Coast"],
+		"preferredVictoryType": "Neutral",
+
+		"StartIntroPart1": "...",
+		"startIntroPart2": "Can you create a civilisation that can stand the test of time?",
+
+		"declaringWar": "
+
+		
 
 ]
         
