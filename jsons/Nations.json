@@ -235,11 +235,11 @@
 
 		"tradeRequest": "Hey, we've come very far to ask you this..!",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [235, 216, 52],
+		"innerColor": [186, 99, 6],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Mythical Baijini People",
-		"uniques": [""],
+		"uniques": ["[+1 Production, +1 Food] from [Fishing Boats] tiles [in all cities"],
 		"cities": ["Borroloola"],
 	},
 ]
