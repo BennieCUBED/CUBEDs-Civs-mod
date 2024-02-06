@@ -225,9 +225,22 @@
 		"StartIntroPart1": "...",
 		"startIntroPart2": "Can you create a civilisation that can stand the test of time?",
 
-		"declaringWar": "
+		"declaringWar": "Leave us alone, take this as a message...",
+		"attacked": "Why? Why did we ever need this cruelty towards us!",
+		"defeated": "If you want us in your society so bad, then here we are...",
+		"introduction": "Hello, We are the Yolngu. Are you looking to trade too?",
 
-		
+		"neutralHello": "Hello.",
+		"hateHello": "What are YOU doing here!?",
 
+		"tradeRequest": "Hey, we've come very far to ask you this..!",
+
+		"outerColor": [],
+		"innerColor": [],
+		"favoredReligion": "Christianity",
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [""],
+	},
 ]
         
