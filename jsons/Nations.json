@@ -213,7 +213,12 @@
 		"uniqueName": "Andhra Bhoja",
 		"uniques": ["May buy [Great General] units for [420] [Culture] [in all cities]"],
 		"cities": ["Bellary","Hampi","Kankavali","Anantapur","Panaji","Karwar","Kumool","Tiruchirappalli","Tirunelveli","Madurai","Puducherry","Vijayanagar"],
-	},		
+	},
+	{
+		"name": "Yolngu",
+		"style": "Oceania",
+		"laderName": "Djalu Gurruwiwi",
+		"adjective": [""],
 
 ]
         
