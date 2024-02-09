@@ -280,7 +280,15 @@
 		"defeated": "To fall to religion or power, both with the same meaning.",
 		"introduction": "You stand in front of the great Sasanian Empire, King of Kings of Iranians and non-Iranians.",
 		
-		
+		"tradeRequest": "This will help dearly, my ally.",
+
+		"outerColor": [],
+		"innerColor": [],
+		"favoredReligion": "Zoroastrianism",
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": ["Ctesiphon"],
+	},
 		
 ]
         
