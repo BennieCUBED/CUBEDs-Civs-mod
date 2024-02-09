@@ -250,6 +250,9 @@
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Neutral",
 
-		"declaringWar": "",
+		"declaringWar": "Nassau charges to victory. Prepare yourself; enemy of Nassau!",
+		"attacked": "Our royalty will not be taken by invaders such as you.",
+		"defeat": "We are only a shadow of our former, more greater selves...",
+		"introduction": "
 ]
         
