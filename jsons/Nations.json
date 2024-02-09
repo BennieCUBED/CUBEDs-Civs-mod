@@ -285,8 +285,8 @@
 		"outerColor": [],
 		"innerColor": [],
 		"favoredReligion": "Zoroastrianism",
-		"uniqueName": "",
-		"uniques": [""],
+		"uniqueName": "Khosrow the Victorious",
+		"uniques": ["[+35]% Strength <for [All] units> <vs cities>"],
 		"cities": ["Ctesiphon"],
 	},
 		
