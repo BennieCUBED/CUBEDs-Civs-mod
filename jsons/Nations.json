@@ -264,7 +264,7 @@
 		"innerColor": [11, 89, 224],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The House of Nassau-Weilburg",
-		"uniques": [""],
+		"uniques": ["[+50]% Strength for cities <when defending>"],
 		"cities": [""],
 	},
 ]
