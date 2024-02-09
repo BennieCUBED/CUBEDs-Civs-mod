@@ -268,7 +268,7 @@
 		"cities": ["Siegen","Giessen","Olpe","Krueztal","Betzdorf","Netphen","Wilnsdorf","Wetzlar","Linden","Buseck","Lich","Stadt","Grauerturm","Nassau"],
 	},
 	{
-		"name": "Sassanid",
+		"name": "The Sassanid",
 		"style": "Mesopotamian",
 		"leaderName": "Khusrau III",
 		"adjective": ["Sasanian","Sassanid"],
@@ -282,8 +282,8 @@
 		
 		"tradeRequest": "This will help dearly, my ally.",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [217, 213, 9],
+		"innerColor": [97, 8, 153],
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Khosrow the Victorious",
 		"uniques": ["[+35]% Strength <for [All] units> <vs cities>"],
