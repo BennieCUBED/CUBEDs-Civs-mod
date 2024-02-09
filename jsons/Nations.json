@@ -267,5 +267,10 @@
 		"uniques": ["[+50]% Strength for cities <when defending>"],
 		"cities": ["Siegen","Giessen","Olpe","Krueztal","Betzdorf","Netphen","Wilnsdorf","Wetzlar","Linden","Buseck","Lich","Stadt","Grauerturm","Nassau"],
 	},
+	{
+		"name": "Sassanid",
+		"style": "Mesopotamian",
+		"leaderName": "",
+		
 ]
         
