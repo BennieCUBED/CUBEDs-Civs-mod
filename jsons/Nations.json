@@ -270,7 +270,17 @@
 	{
 		"name": "Sassanid",
 		"style": "Mesopotamian",
-		"leaderName": "",
+		"leaderName": "Khusrau III",
+		"adjective": ["Sasanian","Sassanid"],
+		"startbias": ["Plains","Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+
+		"declaringWar": "It is about time to expand our empire, either resist or join our empire!",
+		"attacked": "This is either really wise, or really foolish of you.",
+		"defeated": "To fall to religion or power, both with the same meaning.",
+		"introduction": "You stand in front of the great Sasanian Empire, King of Kings of Iranians and non-Iranians.",
+		
+		
 		
 ]
         
