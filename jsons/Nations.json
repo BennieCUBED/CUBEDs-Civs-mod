@@ -253,6 +253,19 @@
 		"declaringWar": "Nassau charges to victory. Prepare yourself; enemy of Nassau!",
 		"attacked": "Our royalty will not be taken by invaders such as you.",
 		"defeat": "We are only a shadow of our former, more greater selves...",
-		"introduction": "
+		"introduction": "The House of Nassau-Weilburg welcomes you to our recently formed duchy of Nassau.",
+
+		"neutralHello": "Good Morning, sir.",
+		"hateHello": "Was machen die hier?", 
+
+		"tradeRequest": "I am sure you do enjoy the view?",
+
+		"outerColor": [],
+		"innerColor": [],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The House of Nassau-Weilburg",
+		"uniques": [""],
+		"cities": [""],
+	},
 ]
         
