@@ -260,8 +260,8 @@
 
 		"tradeRequest": "I am sure you do enjoy the view?",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [224, 86, 11],
+		"innerColor": [11, 89, 224],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The House of Nassau-Weilburg",
 		"uniques": [""],
