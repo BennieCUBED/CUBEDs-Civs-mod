@@ -287,7 +287,7 @@
 		"favoredReligion": "Zoroastrianism",
 		"uniqueName": "Khosrow the Victorious",
 		"uniques": ["[+35]% Strength <for [All] units> <vs cities>"],
-		"cities": ["Ctesiphon", "Estakhr","Qom","Tehran","Hormozdgan"],
+		"cities": ["Ctesiphon","Estakhr","Qom","Tehran","Hormozdgan","Basra","Izeh","Shiraz","Sasan","Sassanid"],
 	},
 		
 ]
