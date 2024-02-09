@@ -242,5 +242,14 @@
 		"uniques": ["[+1 Production, +1 Food] from [Fishing Boats] tiles [in all cities]"],
 		"cities": ["Borroloola","Pellew Islands","McArthur","Robinson River","Calvert","Yolngu"],
 	},
+	{
+		"name": "Nassau",
+		"style": "Germanic",
+		"leaderName": "Wilhelm",
+		"adjective": ["Nassauan"],
+		"startBias": ["Forest"],
+		"preferredVictoryType": "Neutral",
+
+		"declaringWar": "",
 ]
         
