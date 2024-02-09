@@ -272,7 +272,7 @@
 		"style": "Mesopotamian",
 		"leaderName": "Khusrau III",
 		"adjective": ["Sasanian","Sassanid"],
-		"startbias": ["Plains","Avoid [Tundra]"],
+		"startBias": ["Plains","Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 
 		"declaringWar": "It is about time to expand our empire, either resist or join our empire!",
