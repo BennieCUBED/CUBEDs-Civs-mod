@@ -289,6 +289,24 @@
 		"uniques": ["[+35]% Strength <for [All] units> <vs cities>"],
 		"cities": ["Ctesiphon","Estakhr","Qom","Tehran","Hormozdgan","Basra","Izeh","Shiraz","Sasan","Sassanid"],
 	},
+	{
+		"name": "Funan",
+		"style": "East Asian",
+		"leaderName": "Soma",
+		"adjective": ["Funanese"],
+                "startBias": ["Coast","Jungle"],
+		"preferredVictoryType": "Neutral",
+
+		"declaringWar": "We shall sink you ships to the bottom of the sea!",
+		"attacked": "Our coastlines guarded, ready to take you on.",
+		"defeated": "My kingdom, lost to invaders; what chaos...",
+		"introduction": "I am Neang Neakii, queen of this trading kingdom. you should probably just call me Soma, foreigner.",
+
+		"tradeRequest": "Come on..! our kingdom doesn't run on nothing.",
+
+		"outerColor": [],
+		"innerColor": [],
+
 		
 ]
         
