@@ -304,9 +304,12 @@
 
 		"tradeRequest": "Come on..! our kingdom doesn't run on nothing.",
 
-		"outerColor": [],
-		"innerColor": [],
-
-		
+		"outerColor": [209, 86, 184],
+		"innerColor": [254, 255, 255],
+		"favoredReligion": "Hinduism",
+		"uniqueName": "First Queen of Cambodia",
+		"uniques": [""],
+		"cities": ["Vyādhapūra","Sanskrit","Temu","Angkor Borei"],
+	},		
 ]
         
