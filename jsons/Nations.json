@@ -310,6 +310,29 @@
 		"uniqueName": "First Queen of Cambodia",
 		"uniques": ["[+3 Gold, +1 Science] from each Trade Route <before the [Medieval era]>"],
 		"cities": ["Vyādhapūra","Sanskrit","Temu","Angkor Borei","Phnom Penh","Saigon","Ben Tre","Ca Mau","Can Tho","Tatai","Sihanoukville"],
-	},		
+	},
+	{
+		"name": "The Timurids",
+		"style": "Middle Eastern",
+		"leaderName": "Babur",
+		"adjective": ["Timur","Timurid"],
+                "startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"declaringWar": "It's time to take back what is rightfully ours!",
+		"attacked": "We will not lose, not this time.",
+		"defeated": "It's time to rest, for both of us...",
+		"introduction": "Welcome, stranger. You stand infront of the great emirate of the Timurids..!",
+
+		"tradeRequest": "Trade? I guess if you say so.",
+
+		"outerColor": [],
+		"InnerColor": [],
+		"favoredReligion": "",
+		"uniqueName": "",
+		"uniques" [""],
+		"cities": [""],
+	}
+
 ]
         
