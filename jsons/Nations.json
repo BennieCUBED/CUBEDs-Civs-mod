@@ -326,12 +326,12 @@
 
 		"tradeRequest": "Trade? I guess if you say so.",
 
-		"outerColor": [],
-		"InnerColor": [],
-		"favoredReligion": "",
-		"uniqueName": "",
-		"uniques" [""],
-		"cities": [""],
+		"outerColor": [200, 200, 200],
+		"InnerColor": [255, 255, 255],
+		"favoredReligion": "Islam",
+		"uniqueName": "W.I.P",
+		// "uniques" [""],
+		"cities": ["Herat"],
 	}
 
 ]
