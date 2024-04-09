@@ -346,14 +346,14 @@
 		"defeated": "So you have won, I wonder what you'll do now.",
 		"introduction": "We are the People's Republic of Angola, let us now if you want to discuss anything!",
 
-		"tradeRequest": "Yes, we can surelyfind the right deal for us both.",
+		"tradeRequest": "Yes, we can surely find the right deal for us both.",
 
 		"outerColor": [92, 60, 20],
 		"InnerColor": [184, 26, 15],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Angolan Civil War",
 		"uniques": ["[+20]% [Production] [in all cities] <when below [5] Happiness>"],
-		"cities": [""],
+		"cities": ["Luanda","Lubango","Benguela","Huambo","Sumbe"],
 	},
 		
 
