@@ -348,8 +348,8 @@
 
 		"tradeRequest": "Yes, we can surelyfind the right deal for us both.",
 
-		"outerColor": [],
-		"InnerColor": [],
+		"outerColor": [92, 60, 20],
+		"InnerColor": [184, 26, 15],
 		"favoredReligion": "",
 		"uniqueName": "Angolan Civil War",
 		"uniques": [""],
