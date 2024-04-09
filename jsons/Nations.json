@@ -352,7 +352,7 @@
 		"InnerColor": [184, 26, 15],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Angolan Civil War",
-		"uniques": [""],
+		"uniques": ["[+20]% [Production] [in all cities] <when below [5] Happiness>"],
 		"cities": [""],
 	},
 		
