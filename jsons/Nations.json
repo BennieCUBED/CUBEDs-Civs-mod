@@ -353,7 +353,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Angolan Civil War",
 		"uniques": ["[+20]% [Production] [in all cities] <when below [5] Happiness>"],
-		"cities": ["Luanda","Lubango","Benguela","Huambo","Sumbe"],
+		"cities": ["Luanda","Lubango","Benguela","Huambo","Sumbe","Malanje","Tombua","Kuito"],
 	},
 		
 
