@@ -333,6 +333,29 @@
 		// "uniques" [""],
 		"cities": ["Herat"],
 	}
+	{
+	        "name": "Angola",
+		"style": "African",
+		"leaderName": "",
+		"adjective": ["Angolan"],
+		"startBias": ["Coast","Plains"],
+		"preferredVictoryType": "",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction",
+
+		"tradeRequest": "",
+
+		"outerColor": [],
+		"InnerColor": [],
+		"favoredReligion": "",
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [""],
+	},
+		
 
 ]
         
