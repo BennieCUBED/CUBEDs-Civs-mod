@@ -341,12 +341,12 @@
 		"startBias": ["Coast","Plains"],
 		"preferredVictoryType": "Neutral",
 
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction",
+		"declaringWar": "I will no longer let your chaos continue.",
+		"attacked": "You cannot upset Angola with this war, we have faced much worse..!",
+		"defeated": "So you have won, I wonder what you'll do now.",
+		"introduction": "We are the People's Republic of Angola, let us now if you want to discuss anything!",
 
-		"tradeRequest": "",
+		"tradeRequest": "Yes, we can surelyfind the right deal for us both.",
 
 		"outerColor": [],
 		"InnerColor": [],
