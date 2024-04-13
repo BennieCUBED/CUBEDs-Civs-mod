@@ -355,6 +355,28 @@
 		"uniques": ["[+20]% [Production] [in all cities] <when below [5] Happiness>"],
 		"cities": ["Luanda","Lubango","Benguela","Huambo","Sumbe","Malanje","Tombua","Kuito","Caboledo","Luena","Saurimo","Dundo","Mbongo","Mbete","Angola"],
 	},
+	{
+		"name": "Pagan",
+		"style": "East Asian",
+		"leaderName": "Sithu II",
+		"adjective": ["Burmese","Pagan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Cultural",
+
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+
+		"tradeRequest": "",
+
+		"outerColor": [],
+		"innerColor": [],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [""],
+	},
 		
 
 ]
