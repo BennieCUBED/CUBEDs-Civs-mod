@@ -279,6 +279,9 @@
 		"attacked": "This is either really wise, or really foolish of you.",
 		"defeated": "To fall to religion or power, both with the same meaning.",
 		"introduction": "You stand in front of the great Sasanian Empire, King of Kings of Iranians and non-Iranians.",
+
+		"neutralHello": "Yes?",
+		"hateHello": "What?",
 		
 		"tradeRequest": "This will help dearly, my ally.",
 
@@ -301,6 +304,9 @@
 		"attacked": "Our coastlines guarded, ready to take you on.",
 		"defeated": "My kingdom, lost to invaders; what chaos...",
 		"introduction": "I am Neang Neakii, queen of this trading kingdom. you should probably just call me Soma, foreigner.",
+
+		"neutralHello": "Would you like anything?",
+		"hateHello": "Hmm?",
 
 		"tradeRequest": "Come on..! our kingdom doesn't run on nothing.",
 
@@ -346,6 +352,9 @@
 		"defeated": "So you have won, I wonder what you'll do now.",
 		"introduction": "We are the People's Republic of Angola, let us now if you want to discuss anything!",
 
+		"neutralHello": "Hello?",
+		"hateHello": "What?",
+
 		"tradeRequest": "Yes, we can surely find the right deal for us both.",
 
 		"outerColor": [92, 60, 20],
@@ -363,19 +372,22 @@
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Cultural",
 
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "I am not the one for war, but it must be done...",
+		"attacked": "We offered peace, and you showed war. we will remember.",
+		"defeated": "As Burma falls, I hope my brothers will find more peace than I had...",
+		"introduction": "I am Sithu II, also known as Narapati Sithu or Cansu II of the Pagan Dynasty.",
 
-		"tradeRequest": "",
+		"neutralHello": "Greetings.",
+		"hateHello": "Greetings?",
+
+		"tradeRequest": "We hope this trade is fair?",
 
 		"outerColor": [],
 		"innerColor": [],
 		"favoredReligion": "Buddhism",
-		"uniqueName": "",
+		"uniqueName": "The Mon and Pyu Cultures",
 		"uniques": [""],
-		"cities": [""],
+		"cities": ["Pagan"],
 	},
 		
 
