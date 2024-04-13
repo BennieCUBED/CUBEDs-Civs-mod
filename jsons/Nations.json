@@ -382,8 +382,8 @@
 
 		"tradeRequest": "We hope this trade is fair?",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [56, 161, 42],
+		"innerColor": [242, 167, 68],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "The Mon and Pyu Cultures",
 		"uniques": [""],
