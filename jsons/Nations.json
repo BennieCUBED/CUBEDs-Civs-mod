@@ -386,7 +386,7 @@
 		"innerColor": [242, 167, 68],
 		"favoredReligion": "Buddhism",
 		"uniqueName": "The Mon and Pyu Cultures",
-		"uniques": [""],
+		"uniques": ["[+2 Faith, +2 Culture] [in capital] <during a Golden Age>"],
 		"cities": ["Pagan"],
 	},
 		
