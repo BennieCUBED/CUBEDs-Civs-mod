@@ -407,11 +407,11 @@
 
 		"tradeRequest": "Hey, put on this buka while you're here...",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [252, 177, 3],
+		"innerColor": [186, 85, 2],
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Darling Scarp",
-		"uniques": [""],
+		"uniques": ["[+2 Food, +1 Culture] from [Pasture] tiles [in all cities]"],
 		"cities": ["Bunbury","Albany","Esperance","Bremer Bay","Denmark","Ravensthorpe","Swan Coastal Plain","Geraldton Hills","Esperance Plains","Jarrah Forest"],
 	},
 		
