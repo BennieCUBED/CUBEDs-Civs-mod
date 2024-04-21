@@ -405,7 +405,15 @@
 		"neutralHello": "Kaya.",
 		"hateHello": "Get away!",
 
-		"tradeRequest": "",
+		"tradeRequest": "Hey, put on this buka while you're here...",
+
+		"outerColor": [],
+		"innerColor": [],
+		"favoredReligion": "Christianity",
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [""],
+	},
 		
 
 ]
