@@ -389,6 +389,18 @@
 		"uniques": ["[+2 Faith, +2 Culture] [in capital] <during a Golden Age>"],
 		"cities": ["Pagan","Minbu","Prome","Kyaukse","Tagaung","Bassein","Bhamo","Thaton","Arakan","Mergiu","Pyay","Yongon","Pathein","Dan Bi","Bilin","Ingwe","Danhein","Bagan"],
 	},
+	{
+		"name": "Noongar",
+		"style": "African",
+		"leaderName": "Midgegooroo",
+		"adjective": ["Noongar"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Neutral",
+
+		"declaringWar": "If I have to kill you in this war, I will!",
+		"attacked": "Yes, declare war, it's not going to change anything...",
+		"defeated": "Do what you will, the Noongar will never die out.",
+		"introduction": "I am Midgegooroo,
 		
 
 ]
