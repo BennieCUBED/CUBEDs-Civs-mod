@@ -414,6 +414,16 @@
 		"uniques": ["[+2 Food, +1 Culture] from [Pasture] tiles [in all cities]"],
 		"cities": ["Bunbury","Albany","Esperance","Bremer Bay","Denmark","Ravensthorpe","Swan Coastal Plain","Geraldton Hills","Esperance Plains","Jarrah Forest"],
 	},
+	{
+		"name": "Muscovy",
+		"style": "Slavic",
+		"leaderName": "Ivan III",
+		"adjective": ["Muscovy"],
+		"startBias": ["Forest","Tundra"],
+		"preferredVictoryType": "Domination",
+
+		"declaringWar": "
+		
 		
 
 ]
