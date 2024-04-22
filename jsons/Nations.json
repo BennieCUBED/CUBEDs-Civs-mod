@@ -432,8 +432,8 @@
 
 		"tradeRequest": "What do you have for me?",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [255, 255, 255],
+		"innerColor": [252, 227, 3],
 		"favoredReligion": "",
 		"uniqueName": "Gathering of Russian Lands",
 		"uniques": ["[+30]% Strength <when at war>"],
