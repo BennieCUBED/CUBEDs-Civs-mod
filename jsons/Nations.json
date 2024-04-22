@@ -422,7 +422,23 @@
 		"startBias": ["Forest","Tundra"],
 		"preferredVictoryType": "Domination",
 
-		"declaringWar": "
+		"declaringWar": "Prepare, for you shall be one of the first invaded to gather the Russian lands!",
+		"attacked": "You think you can invade us? We will change you mind quickly...",
+		"defeated": "There goes the idea of Russia being the third Rome...",
+		"introduction": "So, you must be who everyone is talking about? I am Ivan the Great! future unifier of all Russia!",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What is it?",
+
+		"tradeRequest": "What do you have for me?",
+
+		"outerColor": [],
+		"innerColor": [],
+		"favoredReligion": "",
+		"uniqueName": "Gathering of Russian Lands",
+		"uniques": [""],
+		"cities": ["Moscow"],
+	},
 		
 		
 
