@@ -436,8 +436,8 @@
 		"innerColor": [],
 		"favoredReligion": "",
 		"uniqueName": "Gathering of Russian Lands",
-		"uniques": [""],
-		"cities": ["Moscow"],
+		"uniques": ["[+30]% Strength <when at war>"],
+		"cities": ["Moscow","Suzdal","Vologda","Novgorod","],
 	},
 		
 		
