@@ -434,7 +434,7 @@
 
 		"outerColor": [255, 255, 255],
 		"innerColor": [252, 227, 3],
-		"favoredReligion": "",
+		"favoredReligion": "Christianity",
 		"uniqueName": "Gathering of Russian Lands",
 		"uniques": ["[+30]% Strength <when at war>"],
 		"cities": ["Moscow","Suzdal","Vologda","Novgorod","Yaroslavl","Vladimir","Tver","Rybinsk","Ivanovo","Cherepovets"],
