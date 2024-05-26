@@ -462,7 +462,7 @@
 		"favoredReligion": "Christianity",
 		"uniqueName": "Přemyslid dynasty",
 		"uniques": ["[+2 Faith] from every specialist [in all cities]"],
-		"cities": [""],
+		"cities": ["Praha","Prague","Brno","Ostrava"],
 	},
 		
 		
