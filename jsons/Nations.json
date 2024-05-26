@@ -457,8 +457,8 @@
 
 		"tradeRequest": "We have traders coming over, so what do you say?",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [184, 4, 4],
+		"innerColor": [255, 255, 255],
 		"favoredReligion": "",
 		"uniqueName": "Duke of Bohemia",
 		"uniques": [""],
