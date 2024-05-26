@@ -461,7 +461,7 @@
 		"innerColor": [255, 255, 255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Přemyslid dynasty",
-		"uniques": [""],
+		"uniques": ["[+2 Faith] from every specialist [in all cities]"],
 		"cities": [""],
 	},
 		
