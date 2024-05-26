@@ -442,10 +442,15 @@
 	{
 		"name": "Bohemia",
 		"style": "Slavic",
-		"leaderName": "",
+		"leaderName": "Bořivoj",
 		"adjective": ["Bohemian"],
 		"startBias": ["Avoid [Desert]"],
-		"preferredVictoryType": "",
+		"preferredVictoryType": "Religious",
+
+		"declaringWar": "To arms! Bohemia will fight you.",
+		"attacked": "God will protect us and the Duchy.",
+		"defeated": "",
+		"introduction": "Welcome to Bohemia, and I am their Duke, Bořivoj I.",
 	},
 		
 		
