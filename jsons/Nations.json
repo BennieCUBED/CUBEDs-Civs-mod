@@ -459,8 +459,8 @@
 
 		"outerColor": [184, 4, 4],
 		"innerColor": [255, 255, 255],
-		"favoredReligion": "",
-		"uniqueName": "Duke of Bohemia",
+		"favoredReligion": "Christianity",
+		"uniqueName": "Přemyslid dynasty",
 		"uniques": [""],
 		"cities": [""],
 	},
