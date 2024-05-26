@@ -449,8 +449,20 @@
 
 		"declaringWar": "To arms! Bohemia will fight you.",
 		"attacked": "God will protect us and the Duchy.",
-		"defeated": "",
+		"defeated": "This is not the last time we meet...",
 		"introduction": "Welcome to Bohemia, and I am their Duke, Bořivoj I.",
+
+		"neutralHello": "Salve.",
+		"hateHello": "Yes?",
+
+		"tradeRequest": "We have traders coming over, so what do you say?",
+
+		"outerColor": [],
+		"innerColor": [],
+		"favoredReligion": "",
+		"uniqueName": "Duke of Bohemia",
+		"uniques": [""],
+		"cities": [""],
 	},
 		
 		
