@@ -423,7 +423,7 @@
 		"preferredVictoryType": "Domination",
 
 		"declaringWar": "Prepare, for you shall be one of the first invaded to gather the Russian lands!",
-		"attacked": "You think you can invade us? We will change you mind quickly...",
+		"attacked": "You think you can invade us? We will change your mind quickly...",
 		"defeated": "There goes the idea of Russia being the third Rome...",
 		"introduction": "So, you must be who everyone is talking about? I am Ivan the Great! future unifier of all Russia!",
 
@@ -438,6 +438,14 @@
 		"uniqueName": "Gathering of Russian Lands",
 		"uniques": ["[+30]% Strength <when at war>"],
 		"cities": ["Moscow","Suzdal","Vologda","Novgorod","Yaroslavl","Vladimir","Tver","Rybinsk","Ivanovo","Cherepovets"],
+	},
+	{
+		"name": "Bohemia",
+		"style": "Slavic",
+		"leaderName": "",
+		"adjective": ["Bohemian"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "",
 	},
 		
 		
