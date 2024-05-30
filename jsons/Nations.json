@@ -475,7 +475,20 @@
 		"declaringWar": "I didn't want to do this, but you've forced me to.",
 		"attacked": "I will defend my people, no matter what!",
 		"defeated": "We weren't strong enough, but our pride is stronger.",
-		"introduction": "I'm Tanumafili II,
+		"introduction": "I'm Malietoa Tanumafili II, may I visit your country as well?",
+
+		"neutralHello": "Hello.",
+		"hateHello": "What?",
+
+		"tradeRequest": "Here is our trade offer, friend!",
+
+		"outerColor": [],
+		"innerColor": [],
+	        "favoredReligion": "Christianity",
+		"uniqueName": "Cradle of Polynesia",
+		"uniques": [""],
+		"cities": [""],
+	},
 		
 
 		
