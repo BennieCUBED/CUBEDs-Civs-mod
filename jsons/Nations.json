@@ -486,8 +486,8 @@
 		"innerColor": [26, 163, 47],
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Cradle of Polynesia",
-		"uniques": [""],
-		"cities": [""],
+		"uniques": ["[+15]% [Food] [in all cities]"],
+		"cities": ["Apia"],
 	},
 		
 
