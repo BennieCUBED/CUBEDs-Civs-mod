@@ -482,8 +482,8 @@
 
 		"tradeRequest": "Here is our trade offer, friend!",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [97, 247, 250],
+		"innerColor": [26, 163, 47],
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Cradle of Polynesia",
 		"uniques": [""],
