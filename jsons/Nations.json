@@ -464,6 +464,15 @@
 		"uniques": ["[+2 Faith] from every specialist [in all cities]"],
 		"cities": ["Praha","Prague","Brno","Ostrava","Pilsen","Pardubice","Olomouc","Jihlava"],
 	},
+	{
+		"name": "Samoa",
+		"style": "Oceania",
+		"leaderName": "",
+		"adjective": ["Samoan"],
+		"startBias": ["Coast"],
+                "preferredVictoryType": "",
+		
+
 		
 		
 
