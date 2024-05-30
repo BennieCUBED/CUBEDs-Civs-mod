@@ -467,10 +467,15 @@
 	{
 		"name": "Samoa",
 		"style": "Oceania",
-		"leaderName": "",
+		"leaderName": "Tanumafili II",
 		"adjective": ["Samoan"],
 		"startBias": ["Coast"],
-                "preferredVictoryType": "",
+                "preferredVictoryType": "Diplomatic",
+
+		"declaringWar": "I didn't want to do this, but you've forced me to.",
+		"attacked": "I will defend my people, no matter what!",
+		"defeated": "We weren't strong enough, but our pride is stronger.",
+		"introduction": "I'm Tanumafili II,
 		
 
 		
