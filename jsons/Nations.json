@@ -487,7 +487,7 @@
 	        "favoredReligion": "Christianity",
 		"uniqueName": "Cradle of Polynesia",
 		"uniques": ["[+15]% [Food] [in all cities]"],
-		"cities": ["Apia"],
+		"cities": ["Apia","Saleilua","Salelologa","Malua",""],
 	},
 		
 
