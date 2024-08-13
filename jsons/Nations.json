@@ -492,7 +492,7 @@
 	{
 		"name": "Nazca",
 		"style": "South American",
-		"leaderName": "Pachakutiq",
+		"leaderName": "Pachakutiq", // Wasn't an actual leader, sorry
 		"adjective": ["Nazca","Nasca"],
 		"startBias": ["Desert","Jungle"],
 		"preferredVictoryType": "Neutral",
@@ -511,7 +511,7 @@
 		"innerColor": [179, 120, 86],
 		"uniqueName": "Nazca lines",
 		"uniques": ["[-30]% construction time for [Improvement] improvements <in [Featureless] tiles>"],
-		"cities": ["Chala","Aqueca"],
+		"cities": ["Chala","Arequipa","Urasqui","Pausa","Yauca"],
 	},
 		
 ]
