@@ -144,7 +144,7 @@
 	      "leaderName": "Muhammad",
 	      "adjective": ["Medinan"],
               "startBias": ["Desert","Hill"],
-              "preferredVictoryType": "Religious",
+              "preferredVictoryType": "Cultural",
 
 	      "neutralHello": "Welcome.",
 	      "hateHello": "What now, fool?",
@@ -445,7 +445,7 @@
 		"leaderName": "Bořivoj",
 		"adjective": ["Bohemian"],
 		"startBias": ["Avoid [Desert]"],
-		"preferredVictoryType": "Religious",
+		"preferredVictoryType": "Domination",
 
 		"declaringWar": "To arms! Bohemia will fight you.",
 		"attacked": "God will protect us and the Duchy.",
