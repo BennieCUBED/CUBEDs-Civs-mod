@@ -494,7 +494,7 @@
 		"style": "South American",
 		"leaderName": "",
 		"adjective": ["Nazca","Nasca"],
-		"startBias": ["Avoid [Tundra]"],
+		"startBias": ["Desert","Jungle"],
 		"preferredVictoryType": "Neutral",
 
 		"declaringWar": "You cities shall suffer a great flood!",
@@ -509,6 +509,10 @@
 
 		"outerColor": [],
 		"innerColor": [],
+		"uniqueName": "Nazca lines",
+		"uniques": [""],
+		"cities": [""],
+	},
 		
 ]
         
