@@ -508,7 +508,7 @@
 		"tradeRequest": "We have maize, whale teeth and even pottery for sale... which would you like?",
 
 		"outerColor": [189, 95, 42],
-		"innerColor": [179, 120, 86],
+		"innerColor": [230, 190, 142],
 		"uniqueName": "Nazca lines",
 		"uniques": ["[-30]% construction time for [Improvement] improvements <in [Featureless] tiles>"],
 		"cities": ["Chala","Arequipa","Urasqui","Pausa","Yauca","Tacna","Chapi","Chucarapi","Pacquina","Tacquapi","Tauqui","Nazca"],
