@@ -489,5 +489,26 @@
 		"uniques": ["[+15]% [Food] [in all cities]"],
 		"cities": ["Apia","Saleilua","Salelologa","Malua","Asau","Safa'atoa","Lauli'i","A'opa","Samoa"],
 	},
+	{
+		"name": "Nazca",
+		"style": "South American",
+		"leaderName": "",
+		"adjective": ["Nazca","Nasca"],
+		"startBias": ["Avoid [Tundra]"],
+		"preferredVictoryType": "Neutral",
+
+		"declaringWar": "You cities shall suffer a great flood!",
+		"attacked": "I promise you... If we ever capture you, your head will be gone!",
+		"defeated": "Our culture now fades... We hope for you to have a better future then ours.",
+		"introduction": "We are the Nazca. would you like to see our lines?",
+
+		"neutralHello": "Yes?",
+		"hateHello": "Hmm...",
+
+		"tradeRequest": "We have Maize, whale teeth and even pottery for sale... which would you like?",
+
+		"outerColor": [],
+		"innerColor": [],
+		
 ]
         
