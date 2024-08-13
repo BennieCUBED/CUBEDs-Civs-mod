@@ -505,10 +505,10 @@
 		"neutralHello": "Yes?",
 		"hateHello": "Hmm...",
 
-		"tradeRequest": "We have Maize, whale teeth and even pottery for sale... which would you like?",
+		"tradeRequest": "We have maize, whale teeth and even pottery for sale... which would you like?",
 
-		"outerColor": [],
-		"innerColor": [],
+		"outerColor": [189, 95, 42],
+		"innerColor": [179, 120, 86],
 		"uniqueName": "Nazca lines",
 		"uniques": [""],
 		"cities": [""],
