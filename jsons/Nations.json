@@ -513,6 +513,17 @@
 		"uniques": ["[-30]% construction time for [Improvement] improvements <in [Featureless] tiles>"],
 		"cities": ["Chala","Arequipa","Urasqui","Pausa","Yauca","Tacna","Chapi","Chucarapi","Pacquina","Tacquapi","Tauqui","Nazca"],
 	},
+	{
+		"name": "Normans",
+		"style": "Germanic",
+		"leaderName": "William",
+		"adjective": ["Norman"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Domination",
+
+		
+		
+		
 		
 ]
         
