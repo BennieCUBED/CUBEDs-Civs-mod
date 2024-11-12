@@ -534,7 +534,7 @@
 		"outerColor": [26, 119, 240],
 		"innerColor": [78, 79, 79],
 		"uniqueName": "Conquest of England",
-		"uniques": [""],
+		"uniques": ["[2] XP gained from combat <for [Military] units>","[+1 Culture] from all [Faith] buildings"],
 		"cities": [""],
 	},		
 ]
