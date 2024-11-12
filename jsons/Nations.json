@@ -535,7 +535,7 @@
 		"innerColor": [78, 79, 79],
 		"uniqueName": "Conquest of England",
 		"uniques": ["[2] XP gained from combat <for [Military] units>","[+1 Culture] from all [Faith] buildings"],
-		"cities": [""],
+		"cities": ["Rouen","Cean","Le Harve","Cherbourg","Dieppe","Alençon"],
 	},		
 ]
         
