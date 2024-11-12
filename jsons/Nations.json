@@ -531,10 +531,11 @@
 
 		"tradeRequest": "So, where is this agreement..?",
 
-		
-		
-		
-		
-		
+		"outerColor": [26, 119, 240],
+		"innerColor": [78, 79, 79],
+		"uniqueName": "Conquest of England",
+		"uniques": [""],
+		"cities": [""],
+	},		
 ]
         
