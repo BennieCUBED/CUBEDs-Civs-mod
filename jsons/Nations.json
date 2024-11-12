@@ -521,6 +521,13 @@
 		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
 
+		"declaringWar": "Disagreement has gone on for far too long... We must Conquer!",
+		"attacked": "This throne is mine, no one will take it from me.",
+		"defeated": "If I must step down then I will...",
+		"introduction": "Who are you? to be welcomed by me, William the Conquerer?",
+
+		"neutralHello": "Bienvenu, encore.",
+		"hateHello": "Leave now!",
 		
 		
 		
