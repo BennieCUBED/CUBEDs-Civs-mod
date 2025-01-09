@@ -536,6 +536,29 @@
 		"uniqueName": "Conquest of England",
 		"uniques": ["[2] XP gained from combat <for [Military] units>","[+1 Culture] from all [Faith] buildings"],
 		"cities": ["Rouen","Cean","Le Harve","Cherbourg","Dieppe","Alençon","Évreux","Fécamp","Lillebonne","Avranches","Lisieux","Coutances","Normans","Normandy"],
-	},		
+	},
+	{
+		"name": "Aragon",
+		"leaderName": "James I",
+		"adjective": ["Aragon"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+
+		"declaringWar": "This is the day, we begin the reconquesta!",
+		"attacked": "We won't lose!",
+		"defeated": "Maybe we underestimated you... Go on.",
+		"introduction": "Hey, are you interested in learning our growing language? from the king of Aragon?",
+
+		"neutralHello": "Pleasant morning isn't it?",
+		"hateHello": "Haha, think you're tough?",
+
+		"tradeRequest": "'Let's trade!' ...it means we want to trade in Catalon.",
+
+		"outerColor": [],
+		"innerColor": [],
+		"uniqueName": "",
+		"uniques": [""],
+		"cities": [""],
+	},
 ]
         
