@@ -557,7 +557,7 @@
 		"outerColor": [237, 229, 5],
 		"innerColor": [230, 30, 16],
 		"uniqueName": "Reconquest",
-		"uniques": [""],
+		"uniques": ["[30]% [Culture] from every [Great Improvement]"],
 		"cities": ["Zaragoza"],
 	},
 ]
