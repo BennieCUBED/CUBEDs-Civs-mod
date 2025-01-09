@@ -555,8 +555,8 @@
 		"tradeRequest": "'Let's trade!' ...it means we want to trade in Catalan.",
 
 		"outerColor": [237, 229, 5],
-		"innerColor": [],
-		"uniqueName": "",
+		"innerColor": [230, 30, 16],
+		"uniqueName": "Reconquest",
 		"uniques": [""],
 		"cities": [""],
 	},
