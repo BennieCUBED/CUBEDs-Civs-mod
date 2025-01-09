@@ -552,9 +552,9 @@
 		"neutralHello": "Pleasant morning isn't it?",
 		"hateHello": "Haha, think you're tough?",
 
-		"tradeRequest": "'Let's trade!' ...it means we want to trade in Catalon.",
+		"tradeRequest": "'Let's trade!' ...it means we want to trade in Catalan.",
 
-		"outerColor": [],
+		"outerColor": [237, 229, 5],
 		"innerColor": [],
 		"uniqueName": "",
 		"uniques": [""],
